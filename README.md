@@ -2,22 +2,6 @@
 
 Este repositorio contiene una implementación de microservicios para gestionar diferentes aspectos de un sistema, incluyendo productos, pedidos y envíos. Cada servicio es independiente y utiliza **Node.js**, **Express** y **PostgreSQL** como base de datos.
 
----
-
-## **Tabla de Contenidos**
-- [Descripción](#descripción)
-- [Servicios Disponibles](#servicios-disponibles)
-- [Requisitos](#requisitos)
-- [Instalación](#instalación)
-- [Ejecución](#ejecución)
-- [Rutas de los Servicios](#rutas-de-los-servicios)
-  - [Productos](#productos-service)
-  - [Pedidos](#pedidos-service)
-  - [Envíos](#envíos-service)
-- [Contribuciones](#contribuciones)
-
----
-
 ## **Descripción**
 
 Este proyecto implementa cinco microservicios principales:
