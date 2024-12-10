@@ -51,7 +51,7 @@ Cada servicio es independiente y se comunica con la base de datos.
 1. Clonar el repositorio:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-   cd MicroserviciosV2
+   cd Microservicios
    ```
 2. Instalar dependencias para cada servicio
    ```bash
