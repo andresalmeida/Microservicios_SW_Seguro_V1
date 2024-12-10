@@ -51,7 +51,7 @@ Cada servicio es independiente y se comunica con la base de datos.
 1. Clonar el repositorio:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-   cd Microservicios
+   cd MicroserviciosV2
    ```
 2. Instalar dependencias para cada servicio
    ```bash
@@ -64,7 +64,7 @@ Cada servicio es independiente y se comunica con la base de datos.
    ```
 3. Correr en Docker:
    ```bash
-   cd Microservicios
+   cd MicroserviciosV2
    docker-compose build
    docker-compose up
    ```
