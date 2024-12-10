@@ -71,17 +71,17 @@ Cada servicio es independiente y se comunica con la base de datos.
 4. Verificar que los servicios estén corriendo
   - Usuarios-service: http://localhost:3000/
   - Productos-service: http://localhost:3001/
-	- Carrito-service: http://localhost:3002/
-	-	Pedidos-service: http://localhost:3003/
-	-	Envíos-service: http://localhost:3004/
+  - Carrito-service: http://localhost:3002/
+  - Pedidos-service: http://localhost:3003/
+  - Envíos-service: http://localhost:3004/
 
 ## Contribuciones
 Si deseas contribuir, por favor:
-	1.	Haz un fork del proyecto.
-	2.	Crea una rama con tu funcionalidad (git checkout -b feature/nueva-funcionalidad).
-	3.	Haz commit de tus cambios (git commit -m 'Agrega nueva funcionalidad').
-	4.	Haz push a tu rama (git push origin feature/nueva-funcionalidad).
-	5.	Crea un Pull Request.
+1.	Haz un fork del proyecto.
+2.	Crea una rama con tu funcionalidad (git checkout -b feature/nueva-funcionalidad).
+3.	Haz commit de tus cambios (git commit -m 'Agrega nueva funcionalidad').
+4.	Haz push a tu rama (git push origin feature/nueva-funcionalidad).
+5.	Crea un Pull Request.
 
 
    
